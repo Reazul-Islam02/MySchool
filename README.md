@@ -1,1 +1,1 @@
-# MySchool!
+# MySchool
